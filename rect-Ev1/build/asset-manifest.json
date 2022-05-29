@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RECT_121-EV1/static/css/main.ae31c0e2.css",
+    "main.js": "/RECT_121-EV1/static/js/main.e688d472.js",
+    "index.html": "/RECT_121-EV1/index.html",
+    "main.ae31c0e2.css.map": "/RECT_121-EV1/static/css/main.ae31c0e2.css.map",
+    "main.e688d472.js.map": "/RECT_121-EV1/static/js/main.e688d472.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae31c0e2.css",
+    "static/js/main.e688d472.js"
+  ]
+}
