@@ -1,4 +1,5 @@
 import "./App.css";
+import Github from "./ChakraUI/Github";
 // import AppContextProvider from "./AppContext/AppContextProvider";
 // import Button from "./AppContext/Button";
 // import ToggleButton from "./AppContext/ToggleButton";
@@ -16,6 +17,7 @@ function App() {
       <Counter/>
       <GitHub/> */}
       <AllRoutes/>
+      {/* <Github/> */}
     </div>
   );
 }
