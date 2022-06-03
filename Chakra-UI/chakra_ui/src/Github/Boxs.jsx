@@ -1,6 +1,5 @@
 import {
   Box,
-  Center,
   ChakraProvider,
   Container,
   Flex,
@@ -38,9 +37,9 @@ export default function Boxs() {
             Button
           </Box> */}
 
-        {/* <Center bg="tomato" color="white">
+        {/* <Box bg="tomato" color="white">
             Hello World!
-          </Center>
+          </Box>
            */}
 
         {/* <Container maxW="xl">
@@ -53,8 +52,8 @@ export default function Boxs() {
 
         <h1>Flex</h1>
 
-        {/* <Flex
-          columnGap="1rem"
+        <Flex
+          
           columns={{
             base: 1,
             sm: 2,
@@ -62,20 +61,21 @@ export default function Boxs() {
             lg: 4,
           }}
           spacing={5}
+          direction={[ "column","row"]}
         >
-          <Center border={"1px solid"} borderColor="black" flex="1">
+          <Box border={"1px solid"} borderColor="black" flex="1">
             1
-          </Center>
-          <Center border={"1px solid"} borderColor="black" flex="1">
+          </Box>
+          <Box border={"1px solid"} borderColor="black" flex="1">
             1
-          </Center>
-          <Center border={"1px solid"} borderColor="black" flex="1">
+          </Box>
+          <Box border={"1px solid"} borderColor="black" flex="1">
             1
-          </Center>
-          <Center border={"1px solid"} borderColor="black" flex="1">
+          </Box>
+          <Box border={"1px solid"} borderColor="black" flex="1">
             1
-          </Center>
-        </Flex> */}
+          </Box>
+        </Flex>
 
         <h1>Stack</h1>
 
@@ -123,7 +123,7 @@ export default function Boxs() {
         </SimpleGrid>
 
         <h1>Grid</h1>
-        {/*           
+                  
           <Grid templateColumns="1fr 3fr 1fr" gap={6}>
             <GridItem w="100%" h="10" bg="blue.500" />
             <GridItem w="100%" h="10" bg="blue.500" />
@@ -141,7 +141,7 @@ export default function Boxs() {
             <GridItem colSpan={2} bg="purple.500" w="100%" />
             <GridItem colSpan={2} bg="purple.500" w="100%" />
             <GridItem colSpan={4} bg="tomato" w="100%" />
-          </Grid>  */}
+          </Grid> 
       </Container>
     </ChakraProvider>
   );
