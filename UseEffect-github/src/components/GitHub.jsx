@@ -8,7 +8,7 @@ export default function Github() {
   const [Val, setVal] = useState("abc");
   const [sort, setSort] = useState("");
   const sortP = ["id", "repo", "total"];
-  
+
   async function getData() {
     return await axios
       .get(`http://localhost:8080/Repo?_page=${page}&_limit=12`)
