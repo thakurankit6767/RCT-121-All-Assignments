@@ -6,9 +6,9 @@ import Boxs from "./Github/Boxs";
 function App() {
   return (
     <div className="App">
-    <AllRoute/>
-    {/* <Github/> */}
-    <Boxs/>
+      <AllRoute />
+      {/* <Github/> */}
+      {/* <Boxs /> */}
     </div>
   );
 }
