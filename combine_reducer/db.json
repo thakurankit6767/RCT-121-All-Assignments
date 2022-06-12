@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Apple",
+      "status": false
+    },
+    {
+      "title": "Orange",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Lemon",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Grapes",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Coconut",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 10
+    }
+  ]
+}

@@ -10,7 +10,7 @@ function TodoInput() {
   const handleAddTodo = () => {
     dispatch(
       addTodos({
-        title: text
+        title: text,
       })
     ).then(() => {
       dispatch(getTodos());
