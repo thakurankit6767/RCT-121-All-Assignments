@@ -1,0 +1,108 @@
+{
+  "company": [
+    {
+      "name": "",
+      "id": 1
+    },
+    {
+      "name": "as",
+      "id": 2
+    },
+    {
+      "name": "as",
+      "id": 3
+    },
+    {
+      "name": "qwe",
+      "id": 4
+    },
+    {
+      "name": "qwe",
+      "id": 5
+    },
+    {
+      "name": "zsxdcb",
+      "id": 6
+    },
+    {
+      "name": "",
+      "id": 7
+    },
+    {
+      "name": "fdv",
+      "id": 8
+    },
+    {
+      "name": "rcd",
+      "id": 9
+    },
+    {
+      "name": "",
+      "id": 10
+    },
+    {
+      "name": "rcd",
+      "id": 11
+    },
+    {
+      "name": "",
+      "id": 12
+    }
+  ],
+  "employee": [
+    {
+      "name": "dew",
+      "company": "",
+      "ctc": 0,
+      "salary": 0,
+      "email": "",
+      "phone": "",
+      "id": 1
+    },
+    {
+      "name": "dew",
+      "company": "vcf",
+      "ctc": "vf",
+      "salary": "df ",
+      "email": "wfecd",
+      "phone": "fdvd ",
+      "id": 2
+    },
+    {
+      "name": "csdvdbx ngc sd vvv",
+      "company": "revf",
+      "ctc": "vfd",
+      "salary": "tvrf",
+      "email": "revfd",
+      "phone": "vfdc",
+      "id": 3
+    },
+    {
+      "name": "as",
+      "company": "dfcvn",
+      "ctc": "fvb",
+      "salary": "dfvgb",
+      "email": "sdvcv",
+      "phone": "fgvb",
+      "id": 4
+    },
+    {
+      "name": "",
+      "company": "",
+      "ctc": 0,
+      "salary": 0,
+      "email": "",
+      "phone": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "company": "",
+      "ctc": 0,
+      "salary": 0,
+      "email": "",
+      "phone": "",
+      "id": 6
+    }
+  ]
+}
